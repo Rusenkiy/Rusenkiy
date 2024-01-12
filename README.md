@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Semolina and Ilya Krukowski's courses**
 
-- 📫 How to reach me **t.me/rusenkiy**
+- 📫 How to reach me <a href="https://t.me/Rusenkiy">**Telegram**</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rusenkiy" alt="rusenkiy" /></a> </p>
 
