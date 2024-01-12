@@ -1,4 +1,4 @@
-![MasterHead]([https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif](https://www.etoro.com/wp-content/uploads/2020/11/10.20_TheCompleteBlockchainGuide_BlockchainLifecycle.gif))
+![MasterHead](https://raw.githubusercontent.com/mantlenetworkio/mantle/main/docs/assets/horizontal_logo.svg)
 <h2 align="center">BLOCKCHAIN DIVER</h2>
 <img align="right" alt="Ethereum" width="400" src="https://media.licdn.com/dms/image/C5622AQHGQW_x7YQxaA/feedshare-shrink_2048_1536/0/1663173195194?e=2147483647&v=beta&t=Wwtq4EKs_mVuT5CifOIA5ie7DqCmUdvaUV5uTjK9nkg">
 
