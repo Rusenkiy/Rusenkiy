@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rusenkiy_eth" target="blank"><img src="https://img.shields.io/twitter/follow/rusenkiy_eth?logo=twitter&style=for-the-badge" alt="rusenkiy_eth" /></a> </p>
 
-- 🌱 I’m currently learning **Semolina and Ilya Krukowski's courses**
+- 🌱 I’m currently learning **Semolina** and **Ilya Krukowski's courses**
 
 - 📫 How to reach me <a href="https://t.me/Rusenkiy">**Telegram**</a>
 
